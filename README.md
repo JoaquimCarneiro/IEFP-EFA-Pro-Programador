@@ -10,5 +10,5 @@
 ...
 
 ### Disciplinas
-[0809 - Programação em C - Fundamentos](0809-ProgramaçãoemC-Fundamentos/README.md)
+[0809 - Programação em C - Fundamentos](./0809-ProgramacaoEmC-Fundamentos/)
 
