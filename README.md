@@ -9,5 +9,6 @@
 ### Redes
 ...
 
-###
-[0809 - Programação em C - Fundamentos](0809 - Programação em C - Fundamentos/)
+### Disciplinas
+[0809 - Programação em C - Fundamentos](0809-ProgramaçãoemC-Fundamentos/README.md)
+
